@@ -5,3 +5,45 @@
     text-decoration: none;
 }
 
+.backbg{
+    background-image: url(diamondpic.jpg);
+    background: -moz-radial-gradient();
+    
+}
+
+.nav{
+    background-color: #D4D3CE;
+    margin-top: 2%;
+    padding: 2%;
+}
+
+.nav{
+    display: flex;
+}
+
+.menu{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 10px;
+    padding-left: 10%;
+}
+
+.upvolt{
+    margin-left: 1%;
+}
+
+.up{
+    margin-left: 1%;
+}
+
+.parent{
+    display: flex;
+}
+
+.text {
+    background-color: #edece8;
+    margin: 1%;
+    text-align: center;
+    padding-top: 2%;
+}
+
