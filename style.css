@@ -4,46 +4,75 @@
     border: 0;
     text-decoration: none;
 }
-
 .backbg{
-    background-image: url(diamondpic.jpg);
-    background: -moz-radial-gradient();
-    
+background-image: url(photo.jpg);
+background-repeat: no-repeat;
+background-size: cover;
 }
-
-.nav{
-    background-color: #D4D3CE;
-    margin-top: 2%;
-    padding: 2%;
-}
-
 .nav{
     display: flex;
+    background-color: rgba(204, 228, 222, 0.8);
+    margin: 2%;
+    padding: 1%;
+    width: 94%;
 }
-
+.navbar{
+    padding-left: 1%;
+}
 .menu{
     list-style-type: none;
     display: inline-block;
     padding: 0px 10px;
-    padding-left: 10%;
+    padding-left: 5.5%;
 }
-
 .upvolt{
     margin-left: 1%;
 }
-
 .up{
-    margin-left: 1%;
+    margin-left: 2%;
+    margin-right: 12%;
 }
-
 .parent{
     display: flex;
+    padding-left: 1%;
 }
-
 .text {
-    background-color: #edece8;
-    margin: 1%;
-    text-align: center;
+    background-color: rgba(197, 233, 224, 0.8);
+    width: 50%;
+    margin: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
     padding-top: 2%;
+    padding-bottom: 3%;
+    text-align: justify;
+    margin-bottom: 10%;
+    margin-top: 10%;
 }
-
+.liv{
+       margin-left: 40%;
+       margin-top: 1%;
+       padding-bottom: 5%;
+}
+.title{
+    text-align: justify;
+    margin-bottom: 5%;
+    font-size: 150%;
+}
+.intext{
+    color: deepskyblue;
+}
+.logo{
+    padding-left: 35%;
+}
+.icon{
+    margin: 1%;
+}
+.copy{
+    background-color: #5a5548;
+    background-color: rgba(56, 58, 57, 0.925);
+    padding-left: 1%;
+    width: 29%;
+}
+.foot{
+    color: white;
+}
