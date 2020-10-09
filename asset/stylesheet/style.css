@@ -5,7 +5,7 @@
     text-decoration: none;
 }
 .backbg{
-background-image: url(photo.jpg);
+background-image: url(../images/photo.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
