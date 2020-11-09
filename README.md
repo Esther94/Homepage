@@ -3,7 +3,7 @@ This is a classwork, about designing web page.
 
 ## 
 # Image
-![welcome interface.](./asset/icon/outlook.PNG "This is the Homepage outlook")
+![welcome interface.](./asset/images/outlook.png "This is the Homepage outlook")
 
 # Built With
 * CSS
@@ -35,5 +35,5 @@ This is a classwork, about designing web page.
 # Live Demo
 [See project live here] (https://raw.githack.com/Esther94/Homepage/css-branch/index.html)
 
-# 🤝 Contributions
+# Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
