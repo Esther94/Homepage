@@ -1,38 +1,37 @@
-# About The Project
+## About The Project
 This is a classwork, about designing web page.
 
-## 
-# Image
+## Image
 ![welcome interface.](./asset/images/outlook.png "This is the Homepage outlook")
 
-# Built With
+## Built With
 * CSS
 * HTML
 
-# Author
+## Author
 * 👨‍🦱Ezekiel Ogunniwa
-    * Github: https://github.com/Eminentzeal
-    * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
-    * Twitter: https://twitter.com/Ogunniwaezekiel
+  * Github: https://github.com/Eminentzeal
+  * linkedin: https://www.linkedin.com/in/ogunniwaezekiel/
+  * Twitter: https://twitter.com/Ogunniwaezekiel
 * 👩Esther Davies
-    * Github: https://github.com/Esther94
-    * Twitter: @Esther62849599
+  * Github: https://github.com/Esther94
+  * Twitter: @Esther62849599
 
-# Facilitators
+## Facilitators
 * [Godwin Nwachukwu](https://github.com/Gnwin).
 
 * [Chioma James](https://github.com/Chiomy).
 
-# Acknowledgements
+## Acknowledgements
 * HomeFrontStartup
-    * http://homefrontstartup.com.ng/
+  * http://homefrontstartup.com.ng/
 * Mentors International
-    * https://mentorsint.com/
-    * https://www.facebook.com/mentorshubyola/
-    * https://twitter.com/hub_mic
-    * https://www.linkedin.com/company/michub/
+  * https://mentorsint.com/
+  * https://www.facebook.com/mentorshubyola/
+  * https://twitter.com/hub_mic
+  * https://www.linkedin.com/company/michub/
 
-# Live Demo
+## Live Demo
 [See project live here] (https://raw.githack.com/Esther94/Homepage/main/index.html)
 
 # Contributions
