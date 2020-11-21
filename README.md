@@ -33,5 +33,5 @@ Thisproject is about creating a homepage for a website, It consist of the header
 ## Live Demo
 [Click Here to see project live](https://raw.githack.com/Esther94/Homepage/main/index.html)
 
-# Contributions
+### Contributions
 * This project is open to your comments and contributions, kindly reach the author through the above author's social media handles.
