@@ -1,8 +1,7 @@
 ## About The Project
-This is a classwork, about designing web page.
-
+Thisproject is about creating a homepage for a website, It consist of the header navigation bar, the welcome content ans the social media handle icons
 ## Image
-![welcome interface.](./asset/images/outlook.png "This is the Homepage outlook")
+![welcome interface.](/asset/images/landing.jpg "This is the Homepage outlook")
 
 ## Built With
 * CSS
